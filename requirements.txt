@@ -1,0 +1,9 @@
+numpy
+scipy
+sympy
+scikit-learn
+pandas
+torch==2.0.0
+dgl==2.0.0
+torch-geometric
+rtdl_num_embeddings
